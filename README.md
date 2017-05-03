@@ -1,6 +1,8 @@
 # Dynamics
 UIKit Dynamics illustrator in swift 3
 
+![Dynamics Screenshot](/DynamicsScreenShot.png)
+
 Dynamics is a swift3 code that illustrates UIKit Dynamics (UIDynamicAnimator). You are able to apply physical behaviors such as Gravity and Collision to your UIViews with a relatively not much code.
 In this app you find assorted shapes in color and size : some are rects, circles and a triangle. All are UIViews.
 Pressing on button `Fall` will embark gravitational movement of the shapes subject to the values you
